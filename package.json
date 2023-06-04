@@ -1,0 +1,21 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.9.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
